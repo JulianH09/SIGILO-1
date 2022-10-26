@@ -7,8 +7,8 @@
     <title>Ganar</title>
 </head>
 <body>
-    <form action="ganar.php" method="post">
-        <label for="">Valor a ganar</label><input type="text" name="valor">
+    <form action="resultado.php" method="post">
+        <label for="">Capital</label><input type="text" name="vc">
         <input type="submit" name="enviar" value="Enviar">
     </form>
 </body>
